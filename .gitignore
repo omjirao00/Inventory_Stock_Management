@@ -1,0 +1,6 @@
+node_modules/
+dist/
+Inventory_Demo.html
+.vercel/
+*.log
+.env*
